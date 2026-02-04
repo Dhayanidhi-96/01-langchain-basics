@@ -110,8 +110,8 @@ Tagline: "Stay Active, Stay Vibrant - Movement Designed for You"
 ## 📬 Connect
 
 Building in public! Follow my journey:
-- **LinkedIn**: [https://www.linkedin.com/in/dhayanidhi-p-3372b0291/]
-- **GitHub**: [https://github.com/Dhayanidhi-96]
-- **Twitter/X**: [https://x.com/p_dhayanid42210]
+- **LinkedIn**: https://www.linkedin.com/in/dhayanidhi-p-3372b0291/
+- **GitHub**: https://github.com/Dhayanidhi-96
+- **Twitter/X**: https://x.com/p_dhayanid42210
 
 ---
